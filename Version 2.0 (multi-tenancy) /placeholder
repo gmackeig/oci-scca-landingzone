@@ -1,0 +1,5 @@
+SCCA v2 will be deployed into the current SCCA repo that already exists...
+https://github.com/oci-landing-zones/oci-scca-landingzone
+We need for both SCCA v1.2 and SCCA v2 to exist on the repo in separate folders so that a customer can choose which one they need to use.
+
+Signed-off-by: Gregg MacKeigan <gregg.mackeigan@oracle.com>
